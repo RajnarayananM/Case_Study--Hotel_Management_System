@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Desktop\Rana_07\Case-Study_Hotel-Managment-System\Back_End\Spring-Security_Login"/>
+			<item value="C:\Users\Administrator\Desktop\Rana_07\Case-Study_Hotel-Managment-System\Back_End\Department-Microservice"/>
+			<item value="C:\Users\Administrator\Desktop\Rana007\My-case-Study-Hotel-Managment-System\Staff-service"/>
+			<item value="C:\Users\Administrator\Desktop\Rio_Case\Crop Details\Department-Microservice"/>
+			<item value="C:\Users\Administrator\Desktop\Rio_Case\Crop Details\Staff-Microservice"/>
+			<item value="C:\Users\Administrator\Desktop\Rana007\My-case-Study-Hotel-Managment-System\login"/>
+			<item value="C:\Users\Administrator\Desktop\Rana007\My-case-Study-Hotel-Managment-System\spring-boot-security-jwt-auth-mongodb-master"/>
+			<item value="C:\Users\Administrator\Desktop\Rana007\My-case-Study-Hotel-Managment-System\springSecurityMongo"/>
+			<item value="C:\Users\Administrator\Desktop\Rana007\My-case-Study-Hotel-Managment-System"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

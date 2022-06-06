@@ -1,0 +1,5 @@
+spring.data.mongodb.uri=mongodb+srv://RioRana:Rana@cluster0.fz8ng.mongodb.net/InventoryDB?retryWrites=true&w=majority
+spring.data.mongodb.database=InventoryDB
+server.name=localhost
+server.port=8082
+spring.application.name=Inventory-Microservice

@@ -1,0 +1,5 @@
+sspring.data.mongodb.uri=mongodb+srv://RioRana:Rana@cluster0.fz8ng.mongodb.net/OnlineHotelManagement?retryWrites=true&w=majority
+spring.data.mongodb.database=OnlineHotelManagement
+server.name=localhost
+server.port=9006
+spring.application.name=Staff-Microservice

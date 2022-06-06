@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.login.security.login.repository.RoleRepository"/>
+    <fullyQualifiedTypeName name="com.login.security.login.security.jwt.JwtUtils"/>
+    <fullyQualifiedTypeName name="com.login.security.login.security.services.UserDetailsImpl"/>
+    <fullyQualifiedTypeName name="com.login.security.login.payload.response.JwtResponse"/>
+    <fullyQualifiedTypeName name="com.login.security.login.payload.request.SignupRequest"/>
+    <fullyQualifiedTypeName name="com.login.security.login.payload.response.MessageResponse"/>
+    <fullyQualifiedTypeName name="com.login.security.login.models.User"/>
+    <fullyQualifiedTypeName name="com.login.security.login.models.Role"/>
+    <fullyQualifiedTypeName name="com.login.security.login.payload.request.LoginRequest"/>
+    <fullyQualifiedTypeName name="com.login.security.login.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.login.security.login.models.ERole"/>
+    <fullyQualifiedTypeName name="org.mockito.junit.MockitoJUnitRunner"/>
+</qualifiedTypeNameHistroy>
